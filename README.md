@@ -1,4 +1,4 @@
-# 🌱 LeafEngines Agricultural Intelligence for Claude
+# 🌱 LeafEngines Agricultural Intelligence for Claude - The First & Finest Environmental/Agricultural API
 
 **Patent-pending environmental algorithms that give Claude agricultural superpowers.**
 
