@@ -1,6 +1,6 @@
 ---
 name: API Key Request
-about: Request an API key for LeafEngines MCP Server
+about: Request an API key for LeafEngines MCP Server v1.1.0 (TurboQuant Optimized)
 title: "[API Key] Your Name or Organization"
 labels: api-key
 assignees: ''
@@ -14,6 +14,11 @@ assignees: ''
 
 ### Intended Use Case
 Describe how you plan to use the LeafEngines MCP Server:
+
+### TurboQuant Optimization Interest
+- [ ] Interested in TurboQuant performance testing (6x memory reduction, 8x faster inference)
+- [ ] Need to run on low-memory devices (Gemma 7B now works on 4GB devices)
+- [ ] Planning to use TurboQuant-optimized tools
 
 ### Plan Selection
 - [ ] **Starter** ($149/month): 5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive calls
@@ -43,6 +48,8 @@ I understand I need to add this to `~/.config/claude-desktop/mcp.json`:
   }
 }
 ```
+
+**TurboQuant Note:** Version 1.1.0 includes TurboQuant optimization for 6x memory reduction and up to 8x faster inference. Try the `turbo_quant_capabilities` tool (FREE, no auth required) to check optimization status.
 
 ### Additional Notes
 [Any other information that might be helpful]
