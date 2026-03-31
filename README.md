@@ -1,0 +1,207 @@
+# LeafEngines - Agricultural AI Intelligence Platform
+
+🌱 **TurboQuant-Powered Environmental Intelligence** - Soil analysis, crop recommendations, weather forecasts, and environmental impact assessment for sustainable agriculture.
+
+## 🚀 Overview
+
+LeafEngines provides agricultural intelligence through multiple integration channels:
+- **MCP Server** for Claude Desktop and MCP-compatible clients
+- **ClawHub Skill** for OpenClaw agents  
+- **Claude Skill** for Claude.ai users
+- **Composio Integration** for enterprise AI agents
+- **Direct API** for developers and applications
+
+## 📦 Repository Structure
+
+```
+leafengines-claude-mcp/
+├── leafengines-mcp-server/          # MCP Server (npm package)
+│   ├── README.md                    # Installation & usage
+│   ├── src/                         # TypeScript source
+│   └── dist/                        # Compiled JavaScript
+├── leafengines-clawhub-skill/       # OpenClaw skill
+│   ├── README.md                    # OpenClaw integration
+│   ├── SKILL.md                     # Skill definition
+│   ├── references/                  # Reference materials
+│   └── scripts/                     # Helper scripts
+├── leafengines-claude-skill/        # Claude.ai skill
+│   ├── README.md                    # Claude integration
+│   └── SKILL.md                     # Skill definition
+├── leafengines-agricultural-intelligence/ # Core intelligence
+├── leafengines-opportunity-scanner/ # Market opportunity tools
+├── leafengines-arbitrage-skill/     # Agricultural arbitrage
+└── leafengines-workspace-skill/     # Workspace management
+```
+
+## 🌾 Features
+
+### **TurboQuant Performance**
+- **6x memory reduction** with Google TurboQuant optimization
+- **8x faster inference** for agricultural analysis
+- **Gemma 7B on 4GB devices** (previously required 8GB+)
+- **Cloud-equivalent performance** on edge devices
+
+### **Agricultural Intelligence Tools**
+1. **Soil Analysis** - USDA soil data, satellite intelligence, environmental factors
+2. **Crop Recommendations** - Optimal crop selection based on soil and climate
+3. **Weather Forecasts** - Agricultural weather data for planning
+4. **Environmental Impact** - Carbon footprint, water usage, sustainability analysis
+5. **TurboQuant Capabilities** - FREE hardware optimization check (no API key required)
+6. **Pest Detection** - Identify common agricultural pests
+7. **Irrigation Scheduling** - Water optimization based on weather
+8. **Yield Prediction** - Crop yield estimates
+9. **Market Prices** - Agricultural commodity prices
+10. **Sustainability Score** - Environmental impact assessment
+
+## 🚀 Quick Start
+
+### **Option 1: MCP Server (Claude Desktop)**
+```bash
+# Install globally
+npm install -g @ancientwhispers54/leafengines-mcp-server
+
+# Run the server
+leafengines-mcp-server
+```
+
+**MCP Registry:** `io.github.QWarranto/leafengines` version 1.1.5
+
+### **Option 2: OpenClaw Skill**
+```bash
+# Install via ClawHub (when available)
+clawhub install leafengines
+
+# Or manually add to skills directory
+```
+
+### **Option 3: Direct API**
+```bash
+# Get API key
+curl -X POST https://app.soilsidekickpro.com/api/auth
+
+# Test FREE tool
+curl -X POST https://app.soilsidekickpro.com/api/turbo-quant-capabilities
+```
+
+## 💰 Pricing
+
+### **FREE Tier**
+- `turbo_quant_capabilities` tool - No API key required
+- Hardware optimization check
+- TurboQuant compatibility verification
+
+### **Paid Tiers** (per 1,000 requests)
+- **Commoditized:** $0.001 (Basic soil/weather data)
+- **Enhanced:** $0.003 (Environmental impact, crop suitability)
+- **Proprietary:** $0.01 (Planting optimization, carbon credits)
+- **EXCLUSIVE:** $0.02 (Patent-pending environmental compatibility)
+
+### **Monthly Plans**
+- **Starter:** $149/month (5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive)
+- **Pro:** $499/month (20k commoditized + 10k enhanced + 5k proprietary + 2k exclusive)
+- **Enterprise:** $1,999/month (100k commoditized + 50k enhanced + 25k proprietary + 10k exclusive)
+
+## 🔗 Integration Guides
+
+### **Claude Desktop Configuration**
+Add to `mcp.json`:
+```json
+{
+  "mcpServers": {
+    "leafengines": {
+      "command": "leafengines-mcp-server",
+      "env": {
+        "LEAFENGINES_API_KEY": "your_api_key_here"
+      }
+    }
+  }
+}
+```
+
+### **OpenClaw Configuration**
+Add to OpenClaw config:
+```yaml
+skills:
+  leafengines:
+    enabled: true
+    config:
+      api_key: YOUR_API_KEY_HERE
+      base_url: https://wzgnxkoeqzvueypwzvyn.supabase.co/functions/v1/mcp-server-v2
+```
+
+### **Composio Integration**
+LeafEngines is available on Composio platform as custom tools for enterprise AI agents.
+
+## 📚 Documentation
+
+### **API Documentation**
+- **Base URL:** `https://app.soilsidekickpro.com/api`
+- **Authentication:** `x-api-key` header
+- **Documentation:** [https://app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs)
+
+### **MCP Server**
+- **npm:** [@ancientwhispers54/leafengines-mcp-server](https://www.npmjs.com/package/@ancientwhispers54/leafengines-mcp-server)
+- **Registry:** [io.github.QWarranto/leafengines](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
+- **GitHub:** [leafengines-mcp-server](https://github.com/QWarranto/leafengines-claude-mcp/tree/main/leafengines-mcp-server)
+
+### **Skills & Integrations**
+- **ClawHub Skill:** For OpenClaw agents
+- **Claude Skill:** For Claude.ai users
+- **Composio Tools:** For enterprise AI agents
+
+## 🤝 Contributing
+
+Contributions are welcome! Please see individual directory `CONTRIBUTING.md` files for guidelines.
+
+### **Project Philosophy**
+This repository contains **integration adapters only**. All proprietary intelligence (TurboQuant, AlphaEarth embeddings, phenology models) remains in the backend API.
+
+### **What to Contribute**
+- Bug fixes and improvements
+- Documentation enhancements
+- Integration examples
+- Test cases
+
+### **What NOT to Contribute**
+- Proprietary algorithms
+- Hardcoded business logic
+- IP-sensitive code
+
+## 📄 License
+
+### **Integration Code**
+Apache 2.0 License - See individual directory LICENSE files.
+
+### **API Service**
+Commercial terms with FREE tier available. See [pricing section](#-pricing).
+
+### **TurboQuant Technology**
+Based on Google's TurboQuant research (6x memory compression for LLMs).
+
+## 🌐 Links
+
+- **Website:** [https://soilsidekickpro.com](https://soilsidekickpro.com)
+- **API Docs:** [https://app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs)
+- **MCP Registry:** [io.github.QWarranto/leafengines](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
+- **npm Package:** [@ancientwhispers54/leafengines-mcp-server](https://www.npmjs.com/package/@ancientwhispers54/leafengines-mcp-server)
+- **Composio:** Custom tools available on platform
+
+## 🆓 Try It Free!
+
+The `turbo_quant_capabilities` tool is completely free - no API key or payment required. Perfect for testing and demonstrations!
+
+```bash
+# Test the FREE tool
+leafengines-mcp-server
+# Then in Claude Desktop, ask: "Check TurboQuant capabilities"
+```
+
+## 📞 Support
+
+- **GitHub Issues:** [Bug reports and feature requests](https://github.com/QWarranto/leafengines-claude-mcp/issues)
+- **API Support:** Contact through [API documentation](https://app.soilsidekickpro.com/api-docs)
+- **Community:** OpenClaw Discord, Claude Discord MCP channel
+
+---
+
+🌱 **Happy farming with AI!** Powered by TurboQuant technology.
