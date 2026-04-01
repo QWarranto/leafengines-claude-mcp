@@ -181,6 +181,7 @@ Based on Google's TurboQuant research (6x memory compression for LLMs).
 ## 🌐 Links
 
 - **Website:** [https://soilsidekickpro.com](https://soilsidekickpro.com)
+- **Application:** [https://app.soilsidekickpro.com](https://app.soilsidekickpro.com)
 - **API Docs:** [https://app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs)
 - **MCP Registry:** [io.github.QWarranto/leafengines](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
 - **npm Package:** [@ancientwhispers54/leafengines-mcp-server](https://www.npmjs.com/package/@ancientwhispers54/leafengines-mcp-server)
