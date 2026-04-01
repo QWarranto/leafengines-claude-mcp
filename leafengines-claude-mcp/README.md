@@ -18,7 +18,7 @@ openclaw skills install clawhub:leafengines
 
 ### Option B: Claude Desktop Users
 #### 1. Get API Key
-Visit: [https://soilsidekickpro.com/api-doc](https://soilsidekickpro.com/api-docs)
+Visit: [https://soilsidekickpro.com/api-docs](https://soilsidekickpro.com/api-docs)
 
 #### 2. Configure Claude Desktop
 Edit `~/.config/claude-desktop/mcp.json` (create if it doesn't exist):
