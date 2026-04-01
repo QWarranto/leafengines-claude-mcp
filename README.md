@@ -68,7 +68,7 @@ leafengines-mcp-server
 
 ### **Option 2: OpenClaw Skill**
 ```bash
-# Install via ClawHub (when available)
+# Install via ClawHub (available now)
 clawhub install leafengines
 
 # Or manually add to skills directory
@@ -77,10 +77,10 @@ clawhub install leafengines
 ### **Option 3: Direct API**
 ```bash
 # Get API key
-curl -X POST https://app.soilsidekickpro.com/api/auth
+curl -X POST https://app.soilsidekickpro.com/api-docs
 
 # Test FREE tool
-curl -X POST https://app.soilsidekickpro.com/api/turbo-quant-capabilities
+curl -X POST https://app.soilsidekickpro.com/turbo-quant-capabilities
 ```
 
 ## 💰 Pricing
