@@ -273,7 +273,7 @@ Claude will:
 
 ## 📊 Monitoring & Analytics
 
-Track your usage at: [https://app.soilsidekickpro.com/dashboard](https://app.soilsidekickpro.com/dashboard)
+Track your usage at: [https://app.soilsidekickpro.com/api-usage](https://app.soilsidekickpro.com/api-usage)
 
 - Real-time call tracking by tier
 - Monthly cost projections
