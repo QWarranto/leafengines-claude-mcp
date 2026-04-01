@@ -18,7 +18,7 @@ openclaw skills install clawhub:leafengines
 
 ### Option B: Claude Desktop Users
 #### 1. Get API Key
-Visit: [https://soilsidekick.com/api-keys](https://soilsidekick.com/api-keys)
+Visit: [https://soilsidekickpro.com/api-doc](https://soilsidekickpro.com/api-docs)
 
 #### 2. Configure Claude Desktop
 Edit `~/.config/claude-desktop/mcp.json` (create if it doesn't exist):
@@ -273,7 +273,7 @@ Claude will:
 
 ## 📊 Monitoring & Analytics
 
-Track your usage at: [https://soilsidekick.com/dashboard](https://soilsidekick.com/dashboard)
+Track your usage at: [https://app.soilsidekickpro.com/dashboard](https://app.soilsidekickpro.com/dashboard)
 
 - Real-time call tracking by tier
 - Monthly cost projections
@@ -288,7 +288,7 @@ Track your usage at: [https://soilsidekick.com/dashboard](https://soilsidekick.c
 
 **"Missing x-api-key header"**
 - Verify API key is correct in `mcp.json`
-- Regenerate key if needed at https://soilsidekick.com/api-keys
+- Regenerate key if needed at https://app.soilsidekickpro.com/api-docs
 
 **Claude doesn't recognize tools**
 - Restart Claude Desktop after configuration
@@ -318,9 +318,9 @@ Track your usage at: [https://soilsidekick.com/dashboard](https://soilsidekick.c
 ## 🤝 Community & Support
 
 - **Discord:** [Join our community](https://discord.gg/leafengines)
-- **Email:** api@leafengines.com
-- **Website:** [https://leafengines.com](https://leafengines.com)
-- **Documentation:** [https://leafengines.com/docs/mcp](https://leafengines.com/docs/mcp)
+- **Email:** developers@leafengines.com
+- **Website:** [https://app.soilsidekickpro.com/leafengines](https://app.soilsidekickpro.com/leafengines)
+- **Documentation:** [https://app.soilsidekickpro.com/mcp](app.soilsidekickpro.com/mcp)
 
 ## 📄 License
 
