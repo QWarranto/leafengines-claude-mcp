@@ -1,8 +1,8 @@
 # LeafEngines - Agricultural AI Intelligence Platform
 
-🌱 **TurboQuant-Powered Environmental Intelligence** - Soil analysis, crop recommendations, weather forecasts, and environmental impact assessment for sustainable agriculture.
+🌱 **TurboQuant-Powered Environmental Intelligence** - Soil analysis, crop recommendations, weather forecasts, and environmental impact assessment for sustainable agriculture. The only patent-protected agricultural intellgence platform in the MCP ecosystem.
 
-## 🚀 Overview
+##  Overview
 
 LeafEngines provides agricultural intelligence through multiple integration channels:
 - **MCP Server** for Claude Desktop and MCP-compatible clients
@@ -11,7 +11,7 @@ LeafEngines provides agricultural intelligence through multiple integration chan
 - **Composio Integration** for enterprise AI agents
 - **Direct API** for developers and applications
 
-## 📦 Repository Structure
+##  Repository Structure
 
 ```
 leafengines-claude-mcp/
@@ -53,7 +53,7 @@ leafengines-claude-mcp/
 9. **Market Prices** - Agricultural commodity prices
 10. **Sustainability Score** - Environmental impact assessment
 
-## 🚀 Quick Start
+## 🚀Quick Start
 
 ### **Option 1: MCP Server (Claude Desktop)**
 ```bash
@@ -83,7 +83,7 @@ curl -X POST https://app.soilsidekickpro.com/api-docs
 curl -X POST https://app.soilsidekickpro.com/turbo-quant-capabilities
 ```
 
-## 💰 Pricing
+##  Pricing
 
 ### **FREE Tier**
 - `turbo_quant_capabilities` tool - No API key required
@@ -132,7 +132,7 @@ skills:
 ### **Composio Integration**
 LeafEngines is available on Composio platform as custom tools for enterprise AI agents.
 
-## 📚 Documentation
+##  Documentation
 
 ### **API Documentation**
 - **Base URL:** `https://app.soilsidekickpro.com/api`
@@ -149,7 +149,7 @@ LeafEngines is available on Composio platform as custom tools for enterprise AI 
 - **Claude Skill:** For Claude.ai users
 - **Composio Tools:** For enterprise AI agents
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please see individual directory `CONTRIBUTING.md` files for guidelines.
 
