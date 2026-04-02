@@ -53,7 +53,7 @@ leafengines-claude-mcp/
 9. **Market Prices** - Agricultural commodity prices
 10. **Sustainability Score** - Environmental impact assessment
 
-## 🚀Quick Start
+## Quick Start
 
 ### **Option 1: MCP Server (Claude Desktop)**
 ```bash
