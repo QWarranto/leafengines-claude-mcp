@@ -35,6 +35,17 @@ leafengines-claude-mcp/
 
 ## 🌾 Features
 
+## 🛡️ Enterprise-Grade Governance (New!)
+
+**Built-in production readiness from day one:**
+- ✅ **Complete audit logging** - Every tool call tracked with attribution
+- ✅ **Operations dashboard** - Real-time monitoring and anomaly detection  
+- ✅ **PII protection** - Automatic sanitization of sensitive data
+- ✅ **Compliance ready** - SOC 2 alignment, export capabilities
+- ✅ **Session correlation** - Trace multi-step agent reasoning
+
+**Why this matters:** Most MCP servers lack governance until enterprises demand it (painful retrofit). We built it in from the start.
+
 ### **TurboQuant Performance**
 - **6x memory reduction** with Google TurboQuant optimization
 - **8x faster inference** for agricultural analysis
