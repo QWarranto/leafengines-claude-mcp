@@ -6,7 +6,7 @@
 [![Claude Desktop](https://img.shields.io/badge/Claude-Desktop-purple)](https://claude.ai/desktop)
 [![TurboQuant](https://img.shields.io/badge/TurboQuant-6x_Compression-green)](https://research.google/blog/turboquant-6x-llm-memory-compression/)
 
-**LeafEngines is the first and finest environmental/agricultural API** - now turbocharged with Google's TurboQuant for 6x memory compression. Our patent-pending innovation provides agricultural intelligence for AI agents with 10 tools across soil analysis, environmental compliance, planting optimization, and carbon credit calculation, delivering actionable insights from USDA, EPA, and NOAA data sources with cloud-equivalent performance on edge devices.
+**LeafEngines is the first and finest, patent-protected environmental/agricultural API** - now turbocharged with Google's TurboQuant for 6x memory compression. Our patent-pending innovation provides agricultural intelligence for AI agents with 10 tools across soil analysis, environmental compliance, planting optimization, and carbon credit calculation, delivering actionable insights from USDA, EPA, and NOAA data sources with cloud-equivalent performance on edge devices.
 
 ## 🚀 Quick Start
 
