@@ -137,7 +137,7 @@ skills:
     enabled: true
     config:
       api_key: YOUR_API_KEY_HERE
-      base_url: https://wzgnxkoeqzvueypwzvyn.supabase.co/functions/v1/mcp-server-v2
+      base_url: https://app.soilsidekickpro.com/api
 ```
 
 ### **Composio Integration**
@@ -149,11 +149,13 @@ LeafEngines is available on Composio platform as custom tools for enterprise AI 
 - **Base URL:** `https://app.soilsidekickpro.com/api`
 - **Authentication:** `x-api-key` header
 - **Documentation:** [https://app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs)
+- **MCP Documentation:** [https://app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
 
 ### **MCP Server**
 - **npm:** [@ancientwhispers54/leafengines-mcp-server](https://www.npmjs.com/package/@ancientwhispers54/leafengines-mcp-server)
 - **Registry:** [io.github.QWarranto/leafengines](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
 - **GitHub:** [leafengines-mcp-server](https://github.com/QWarranto/leafengines-claude-mcp/tree/main/leafengines-mcp-server)
+- **MCP Documentation:** [https://app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
 
 ### **Skills & Integrations**
 - **ClawHub Skill:** For OpenClaw agents
@@ -184,16 +186,33 @@ This repository contains **integration adapters only**. All proprietary intellig
 Apache 2.0 License - See individual directory LICENSE files.
 
 ### **API Service**
-Commercial terms with FREE tier available. See [pricing section](#-pricing).
+Commercial terms with FREE tier available. See [pricing section](#-pricing) or [https://app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp) for details.
 
 ### **TurboQuant Technology**
 Based on Google's TurboQuant research (6x memory compression for LLMs).
+
+## 👥 Join Our Community
+
+**750+ developers are already using LeafEngines MCP Server!**
+
+- 💬 **GitHub Discussions:** [Share your use cases & get help](https://github.com/QWarranto/leafengines-claude-mcp/discussions)
+- 🎥 **Upcoming Videos:** Agricultural AI MCP tutorials (subscribe for updates)
+- 🐦 **Twitter/X:** [@LeafEnginesAI](https://twitter.com/LeafEnginesAI) for updates
+- 📧 **Newsletter:** Monthly MCP tips & agricultural AI insights
 
 ## 🌐 Links
 
 - **Website:** [https://soilsidekickpro.com](https://soilsidekickpro.com)
 - **Application:** [https://app.soilsidekickpro.com](https://app.soilsidekickpro.com)
 - **API Docs:** [https://app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs)
+- **MCP Documentation:** [https://app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
+- **User Guide:** [https://app.soilsidekickpro.com/user-guide](https://app.soilsidekickpro.com/user-guide)
+- **FAQ:** [https://app.soilsidekickpro.com/faq](https://app.soilsidekickpro.com/faq)
+- **LeafEngines API:** [https://app.soilsidekickpro.com/leafengines-api](https://app.soilsidekickpro.com/leafengines-api)
+- **Client Integration Guide:** [https://app.soilsidekickpro.com/client-integration-guide](https://app.soilsidekickpro.com/client-integration-guide)
+- **SDK Changelog:** [https://app.soilsidekickpro.com/sdk-changelog](https://app.soilsidekickpro.com/sdk-changelog)
+- **TurboQuant Capabilities:** [https://app.soilsidekickpro.com/turbo-quant-capabilities](https://app.soilsidekickpro.com/turbo-quant-capabilities)
+- **Swagger UI:** [https://app.soilsidekickpro.com/swagger-ui](https://app.soilsidekickpro.com/swagger-ui)
 - **MCP Registry:** [io.github.QWarranto/leafengines](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
 - **npm Package:** [@ancientwhispers54/leafengines-mcp-server](https://www.npmjs.com/package/@ancientwhispers54/leafengines-mcp-server)
 - **Composio:** Custom tools available on platform
@@ -211,7 +230,7 @@ leafengines-mcp-server
 ## 📞 Support
 
 - **GitHub Issues:** [Bug reports and feature requests](https://github.com/QWarranto/leafengines-claude-mcp/issues)
-- **API Support:** Contact through [API documentation](https://app.soilsidekickpro.com/api-docs)
+- **API Support:** Contact through [API documentation](https://app.soilsidekickpro.com/api-docs) or [MCP documentation](https://app.soilsidekickpro.com/mcp)
 - **Community:** OpenClaw Discord, Claude Discord MCP channel
 
 ---
