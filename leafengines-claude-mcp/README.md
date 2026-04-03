@@ -6,7 +6,7 @@
 [![Claude Desktop](https://img.shields.io/badge/Claude-Desktop-purple)](https://claude.ai/desktop)
 [![TurboQuant](https://img.shields.io/badge/TurboQuant-6x_Compression-green)](https://research.google/blog/turboquant-6x-llm-memory-compression/)
 
-**LeafEngines is the first and finest environmental/agricultural API** - now turbocharged with Google's TurboQuant for 6x memory compression. Our patent-pending innovation provides agricultural intelligence for AI agents with 10 tools across soil analysis, environmental compliance, planting optimization, and carbon credit calculation, delivering actionable insights from USDA, EPA, and NOAA data sources with cloud-equivalent performance on edge devices.
+**LeafEngines is the first and finest, patent-protected environmental/agricultural API** - now turbocharged with Google's TurboQuant for 6x memory compression. Our innovation provides agricultural intelligence for AI agents with 10 tools across soil analysis, environmental compliance, planting optimization, and carbon credit calculation, delivering actionable insights from USDA, EPA, and NOAA data sources with cloud-equivalent performance on edge devices.
 
 ## 🚀 Quick Start
 
@@ -18,7 +18,7 @@ openclaw skills install clawhub:leafengines
 
 ### Option B: Claude Desktop Users
 #### 1. Get API Key
-Visit: [https://soilsidekick.com/api-keys](https://soilsidekick.com/api-keys)
+Visit: [https://soilsidekickpro.com/api-docs](https://soilsidekickpro.com/api-docs)
 
 #### 2. Configure Claude Desktop
 Edit `~/.config/claude-desktop/mcp.json` (create if it doesn't exist):
@@ -273,7 +273,7 @@ Claude will:
 
 ## 📊 Monitoring & Analytics
 
-Track your usage at: [https://soilsidekick.com/dashboard](https://soilsidekick.com/dashboard)
+Track your usage at: [https://app.soilsidekickpro.com/api-usage](https://app.soilsidekickpro.com/api-usage)
 
 - Real-time call tracking by tier
 - Monthly cost projections
@@ -288,7 +288,7 @@ Track your usage at: [https://soilsidekick.com/dashboard](https://soilsidekick.c
 
 **"Missing x-api-key header"**
 - Verify API key is correct in `mcp.json`
-- Regenerate key if needed at https://soilsidekick.com/api-keys
+- Regenerate key if needed at https://app.soilsidekickpro.com/api-docs
 
 **Claude doesn't recognize tools**
 - Restart Claude Desktop after configuration
@@ -318,9 +318,9 @@ Track your usage at: [https://soilsidekick.com/dashboard](https://soilsidekick.c
 ## 🤝 Community & Support
 
 - **Discord:** [Join our community](https://discord.gg/leafengines)
-- **Email:** api@leafengines.com
-- **Website:** [https://leafengines.com](https://leafengines.com)
-- **Documentation:** [https://leafengines.com/docs/mcp](https://leafengines.com/docs/mcp)
+- **Email:** developers@leafengines.com
+- **Website:** [https://app.soilsidekickpro.com/leafengines](https://app.soilsidekickpro.com/leafengines)
+- **Documentation:** [https://app.soilsidekickpro.com/mcp](app.soilsidekickpro.com/mcp)
 
 ## 📄 License
 
