@@ -137,7 +137,7 @@ skills:
     enabled: true
     config:
       api_key: YOUR_API_KEY_HERE
-      base_url: https://app.soilsidekickpro.com/api
+      base_url: https://app.soilsidekickpro.com/api-docs
 ```
 
 ### **Composio Integration**
