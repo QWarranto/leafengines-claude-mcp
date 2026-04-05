@@ -1,0 +1,69 @@
+# UPDATE - LeafEngines Emergency API Access Request _ UPDATE
+
+**API URL:** `https://leafengines-agricultural-intelligence.onrender.com`
+
+## 📋 How to Get Access
+
+1. **Comment below** with:
+   - Your name/company
+   - Email address (for sending API key)
+   - Intended use case
+   - Estimated monthly API calls
+
+2. **You'll receive** an email with:
+   - Your unique API key
+   - Payment instructions (6 methods available)
+   - Documentation link
+
+3. **Make payment** via any of these methods:
+   - PayPal: `teamclreg@gmail.com`
+   - Cash App: `$Sumer54`
+   - Venmo: `@Reginald-Rice`
+   - Bitcoin: `3CRZcQRWznNMKa5XdRMc9j4RBZkkPFFf52`
+   - Ethereum: `0x0dAD616c5892b55486f1132ef2BFf7128cd27414`
+   - Solana: `4Z4zSQDCkJu7mTVAVnMCDgAtPSUwxZ6Eprs2NFnNL5Kc`
+
+4. **API access activated** within 24 hours of payment confirmation
+
+## 🔧 Available Endpoints
+
+- `POST /v1/soil/analyze` - Soil analysis with NPK recommendations
+- `POST /v1/crop/recommend` - Crop recommendations based on soil/weather
+- `GET /v1/health` - Service status check
+- `POST /v1/auth/validate` - Validate API key
+
+## 💰 Pricing (Emergency Phase)
+
+- **$10/month** - 1,000 API calls
+- **$25/month** - 5,000 API calls  
+- **$50/month** - 15,000 API calls
+- **$100/month** - 50,000 API calls
+
+*Note: This is an emergency deployment. Full production API with Stripe integration coming soon.*
+
+## 📝 Example Request
+
+```bash
+curl -X POST https://leafengines-agricultural-intelligence.onrender.com/v1/soil/analyze \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer YOUR_API_KEY" \
+  -d '{
+    "soil_type": "loam",
+    "ph": 6.5,
+    "nitrogen": 25,
+    "phosphorus": 15,
+    "potassium": 20,
+    "location": "Georgia, USA"
+  }'
+```
+
+## ⚠️ Important Notes
+
+- This is a **minimal viable API** deployed to serve 1,532 developers who cloned our repo
+- We're building the full payment system in parallel
+- Your feedback will shape the production API
+- All payments support continued development
+
+---
+
+**Comment below to request access!** 🚀
