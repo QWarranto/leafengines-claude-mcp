@@ -146,7 +146,7 @@ LeafEngines is available on Composio platform as custom tools for enterprise AI 
 ##  Documentation
 
 ### **API Documentation**
-- **Base URL:** `https://app.soilsidekickpro.com/api`
+- **Base URL:** `https://app.soilsidekickpro.com/api-docs`
 - **Authentication:** `x-api-key` header
 - **Documentation:** [https://app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs)
 - **MCP Documentation:** [https://app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
