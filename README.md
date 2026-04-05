@@ -87,8 +87,9 @@ clawhub install leafengines
 
 ### **Option 3: Direct API**
 ```bash
-# Get API key
-curl -X POST https://app.soilsidekickpro.com/api-docs
+# Working API now available!
+# URL: https://leafengines-agricultural-intelligence.onrender.com
+# Access: Comment on GitHub Issue #NUMBER
 
 # Test FREE tool
 curl -X POST https://app.soilsidekickpro.com/turbo-quant-capabilities
