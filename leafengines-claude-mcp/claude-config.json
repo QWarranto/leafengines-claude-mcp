@@ -4,11 +4,11 @@
       "command": "npx",
       "args": [
         "-y",
-        "@modelcontextprotocol/server-leafengines",
-        "https://wzgnxkoeqzvueypwzvyn.supabase.co/functions/v1/mcp-server"
+        "@ancientwhispers54/leafengines-mcp-server"
       ],
       "env": {
-        "LEAFENGINES_API_KEY": "YOUR_API_KEY_HERE",
+        "LEAFENGINES_API_URL": "https://leafengines-agricultural-intelligence.onrender.com",
+        "LEAFENGINES_API_KEY": "leaf-test-370df0a2e62e",
         "LEAFENGINES_TIER_PREFERENCE": "balanced"
       }
     }
