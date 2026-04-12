@@ -8,7 +8,7 @@
       ],
       "env": {
         "LEAFENGINES_API_URL": "https://leafengines-agricultural-intelligence.onrender.com",
-        "LEAFENGINES_API_KEY": "leaf-test-370df0a2e62e",
+        "LEAFENGINES_API_KEY": "YOUR_API_KEY_HERE",
         "LEAFENGINES_TIER_PREFERENCE": "balanced"
       }
     }
