@@ -8,6 +8,63 @@
 
 **LeafEngines is the first and finest, patent-protected environmental/agricultural API** - now turbocharged with Google's TurboQuant for 6x memory compression. Our innovation provides agricultural intelligence for AI agents with 10 tools across soil analysis, environmental compliance, planting optimization, and carbon credit calculation, delivering actionable insights from USDA, EPA, and NOAA data sources with cloud-equivalent performance on edge devices.
 
+## 🎯 Strategic Vision: From AgTech to Universal Infrastructure
+
+**Watch our 7-minute strategic expansion plan:**
+
+[![LeafEngines Strategic Expansion](https://img.youtube.com/vi/bBHVLbh3tx0/0.jpg)](https://youtu.be/bBHVLbh3tx0)
+
+### **The Strategic Pivot:**
+LeafEngines is executing a calculated pivot from vertical AgTech to **horizontal infrastructure platform**. We're exploiting a critical global vulnerability: the fragility of satellite-based Positioning, Navigation, and Timing (PNT).
+
+### **Core Mission:**
+> **"Space gives the picture. We give the truth."**
+
+### **Key Markets Identified:**
+- **Disaster Response** - GPS-denied environments
+- **Mining & Forestry** - Remote operations
+- **Industrial Automation** - GPS-denied factories
+- **Power Grids** - High-precision timing
+- **Finance** - MiFID II-compliant timestamps
+- **Defense/Intelligence** - Assured PNT in contested theaters
+
+### **Our Advantage:**
+- **Offline-first architecture** - Works anywhere, anytime
+- **CIP Patent protection** - Inertial Dead Reckoning + Kalman logic
+- **Community arbitrage** - Zero-CAC distribution through n8n/Node-RED/MCP
+- **Quality transparency** - v3.0.0 confidence scoring & audit trails
+
+### **The Vision:**
+Transforming our core technology into a **foundational trust layer for autonomous physical AI** - the mandatory infrastructure for a world requiring GPS-independent verification.
+
+### **💡 How to Use This Video (Developer Tool):**
+This video serves as a **non-traditional sales and marketing tool** you can leverage:
+- **Internal Stakeholder Alignment:** Share with your team to explain the strategic vision
+- **Client Presentations:** Demonstrate the company behind the technology
+- **Investor Briefings:** Show the $1.2T horizontal market opportunity
+- **Community Building:** Educate other developers about the broader ecosystem
+
+### **🎬 Cinematic Scene Guide:**
+**Scene 1: Devices on Bench (0:45-1:15)** - Show hardware integration proof
+**Scene 2: Developer Embedding (1:30-2:15)** - Demonstrate integration process
+**Scene 3: Buy→Resell→Market (2:30-3:45)** - Explain business model
+**Scene 4: Strategic Vision (4:00-5:30)** - Share market opportunity
+
+### **🌐 The Offline AI Economy:**
+**Read our philosophical manifesto:** [THE_OFFLINE_AI_ECONOMY.md](https://github.com/soilsidekick/leafengines/blob/main/THE_OFFLINE_AI_ECONOMY.md)
+
+**Core Thesis:** "While much of the AI industry focuses on the size of cloud-based models, those models are unable to execute physical tasks without ground truth integrity."
+
+**Three-Layer Solution:**
+1. **Sensor Fusion** - Local dead reckoning without satellites
+2. **Kalman Gate** - Uncertainty gating prevents database corruption
+3. **Offline-First MCP** - Enables local AI decisions without cloud
+
+**Business Model Revolution:**
+- **Filtered Byte Pricing** - Charge for prevented corruption
+- **Pay-Per-Agent Action** - Bill for successful high-value tasks
+- **Outcome-Based Pricing** - Shift from access to utility
+
 ## 🚀 Quick Start
 
 ### Option A: OpenClaw Users (Simplest)
