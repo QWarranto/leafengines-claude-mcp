@@ -197,15 +197,21 @@ After payment, you'll receive your API key within 24 hours.
 ## 💰 Normal Pricing (After Founder Period)
 
 ### Pay-As-You-Go
-- **Commoditized:** $0.001 per call (public data access)
-- **Enhanced:** $0.003 per call (AI processing)
-- **Proprietary:** $0.01 per call (internal models)
-- **EXCLUSIVE:** $0.02 per call (patent-pending intelligence) ⭐
+- **Commoditized:** $0.50/500 calls (public data access) — [Buy](https://buy.stripe.com/8x2fZh1Wu8bR4Nc9QWaMU08)
+- **Enhanced:** $1.50/500 calls (AI processing) — [Buy](https://buy.stripe.com/7sY28reJg1NtenM8MSaMU0b)
+- **Proprietary:** $5.00/500 calls (internal models) — [Buy](https://buy.stripe.com/3cIeVd9oW1NtgvU1kqaMU09)
+- **EXCLUSIVE:** $10.00/500 calls (patent-pending intelligence) ⭐ — [Buy](https://buy.stripe.com/6oU4gzbx40Jp6Vk1kqaMU0a)
 
 ### Monthly Plans (Recommended)
-- **Starter:** $149/month (5,000 commoditized + 3,000 enhanced + 1,500 proprietary + 500 exclusive calls) *TurboQuant: Get 6x more value per call*
-- **Pro:** $499/month (20,000 commoditized + 10,000 enhanced + 5,000 proprietary + 2,000 exclusive calls) *TurboQuant: Professional-grade AI on 4GB devices*
-- **Enterprise:** $1,999/month (100,000 commoditized + 50,000 enhanced + 25,000 proprietary + 10,000 exclusive calls) *TurboQuant: Enterprise intelligence at edge scale*
+- **Starter:** $149/month (5,000 commoditized + 3,000 enhanced + 1,500 proprietary + 500 exclusive calls) *TurboQuant: Get 6x more value per call* — [Subscribe](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04)
+- **Pro:** $499/month (20,000 commoditized + 10,000 enhanced + 5,000 proprietary + 2,000 exclusive calls) *TurboQuant: Professional-grade AI on 4GB devices* — [Subscribe](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05)
+- **Enterprise:** $1,999/month (100,000 commoditized + 50,000 enhanced + 25,000 proprietary + 10,000 exclusive calls) *TurboQuant: Enterprise intelligence at edge scale* — [Subscribe](https://buy.stripe.com/eVqaEXfNkajZ6Vk0gmaMU06)
+
+### Pay-As-You-Go (500 calls per pack)
+- **Commoditized:** $0.50/500 calls — [Buy](https://buy.stripe.com/8x2fZh1Wu8bR4Nc9QWaMU08)
+- **Enhanced:** $1.50/500 calls — [Buy](https://buy.stripe.com/7sY28reJg1NtenM8MSaMU0b)
+- **Proprietary:** $5.00/500 calls — [Buy](https://buy.stripe.com/3cIeVd9oW1NtgvU1kqaMU09)
+- **Exclusive:** $10.00/500 calls — [Buy](https://buy.stripe.com/6oU4gzbx40Jp6Vk1kqaMU0a)
 
 ## ⚖️ Patent-Pending Significance
 
