@@ -169,7 +169,32 @@ Add TurboQuant parameters to your configuration for maximum performance:
 ### TurboQuant Discovery (Free - No Auth Required)
 - **`turbo_quant_capabilities`** - Query supported models, RAM requirements, KV cache sizes, context limits, and get hardware-specific recommendations (e.g., "best model for 4GB RAM")
 
-## 💰 Pricing
+## 💰 Founder Pricing (First 100 Only)
+
+Act now to lock in lifetime rates. After the first 100 founders or 30 days, pricing increases to normal rates.
+
+| Tier | First 30 Days | After 30 Days (Lifetime Lock) | Normal Price |
+|------|--------------|-------------------------------|-------------|
+| **Starter** | $10/mo | $49/mo for life | $149/mo |
+| **Pro** | $49/mo | $149/mo for life | $499/mo |
+
+### Get Started Now
+- **Starter:** [Subscribe for $10/month](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02) *(Limited to first 100)*
+- **Pro:** [Subscribe for $49/month](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03) *(Limited to first 100)*
+
+After payment, you'll receive your API key within 24 hours.
+
+### Alternative Payment Methods
+- PayPal: `teamclreg@gmail.com`
+- Cash App: `$Sumer54`
+- Venmo: `@Reginald-Rice`
+- Bitcoin: `3CRZcQRWznNMKa5XdRMc9j4RBZkkPFFf52`
+- Ethereum: `0x0dAD616c5892b55486f1132ef2BFf7128cd27414`
+- Solana: `4Z4zSQDCkJu7mTVAVnMCDgAtPSUwxZ6Eprs2NFnNL5Kc`
+
+---
+
+## 💰 Normal Pricing (After Founder Period)
 
 ### Pay-As-You-Go
 - **Commoditized:** $0.001 per call (public data access)
