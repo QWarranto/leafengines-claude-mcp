@@ -1,63 +1,86 @@
 ---
-name: API Key Request
-about: Request an API key for LeafEngines MCP Server v1.1.0 (TurboQuant Optimized)
-title: "[API Key] Your Name or Organization"
+name: Get API Key (Paid Tiers Only)
+about: FREE TIER REQUIRES NO API KEY! Use test key for immediate access.
+title: "[API Key] Paid Tier Request"
 labels: api-key
 assignees: ''
 ---
 
-## API Key Request
+# 🚀 FREE TIER: NO API KEY NEEDED!
 
-**Name:** [Your Name]
-**Email:** [Your Email]
-**Organization:** [Optional - Company/University/Project]
+**Immediate access with test key:** `leaf-test-370df0a2e62e`
 
-### Intended Use Case
-Describe how you plan to use the LeafEngines MCP Server:
+## ✅ Try It Now (No Waiting):
 
-### TurboQuant Optimization Interest
-- [ ] Interested in TurboQuant performance testing (6x memory reduction, 8x faster inference)
-- [ ] Need to run on low-memory devices (Gemma 7B now works on 4GB devices)
-- [ ] Planning to use TurboQuant-optimized tools
+1. **Use test key:** `leaf-test-370df0a2e62e`
+2. **Immediate access** to all features
+3. **No forms, no waiting, no approval**
+4. **Works on all platforms:** MCP Server, n8n, Node-RED, QGIS, Clawhub
 
-### Plan Selection
-- [ ] **Starter** ($149/month): 5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive calls
-- [ ] **Pro** ($499/month): 20k commoditized + 10k enhanced + 5k proprietary + 2k exclusive calls  
-- [ ] **Enterprise** ($1,999/month): 100k commoditized + 50k enhanced + 25k proprietary + 10k exclusive calls
-- [ ] **Pay-as-you-go** (start with $50 credit)
-
-### Expected Monthly Usage
-Estimated number of calls per month: [e.g., 1,000-5,000]
-
-### Claude Desktop Configuration
-I understand I need to add this to `~/.config/claude-desktop/mcp.json`:
-```json
-{
-  "mcpServers": {
-    "leafengines": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-leafengines",
-        "https://wzgnxkoeqzvueypwzvyn.supabase.co/functions/v1/mcp-server"
-      ],
-      "env": {
-        "LEAFENGINES_API_KEY": "[API_KEY]"
-      }
-    }
-  }
-}
-```
-
-**TurboQuant Note:** Version 1.1.0 includes TurboQuant optimization for 6x memory reduction and up to 8x faster inference. Try the `turbo_quant_capabilities` tool (FREE, no auth required) to check optimization status.
-
-### Additional Notes
-[Any other information that might be helpful]
+**Test key gives you:**
+- Full soil analysis capabilities
+- Crop recommendations
+- Weather data
+- Environmental impact assessment
+- All free tier features
 
 ---
 
-**Next Steps:**
-1. We'll review your request
-2. Send a Stripe invoice for your selected plan
-3. Once paid, we'll provide your API key via email
-4. You can start using the MCP server immediately
+# 💳 PAID TIERS: INSTANT ACCESS
+
+**Want higher limits or commercial use? Get instant API keys:**
+
+## 🚀 Starter Plan ($149/month → **$49 Founder Pricing**)
+[Stripe Checkout](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02)
+- **Instant key delivery** after payment
+- 5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive calls
+
+## 🚀 Pro Plan ($499/month → **$149 Founder Pricing**)
+[Stripe Checkout](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03)
+- **Instant key delivery** after payment
+- 20k commoditized + 10k enhanced + 5k proprietary + 2k exclusive calls
+
+## 🚀 Enterprise Plan ($1,999/month → **Founder #1 Pricing**)
+**Contact:** support@soilsidekickpro.com
+- Custom volume
+- Dedicated support
+- SLA guarantees
+
+## 💰 Pay-As-You-Go
+Start with $50 credit, use as needed
+
+---
+
+# 🏢 ENTERPRISE (Optional)
+
+**For large organizations only:**
+
+**Organization:** [Company/University/Project]
+**Expected Monthly Usage:** [e.g., 50,000+ calls]
+**Contact Email:** [Your Email]
+
+**We'll contact you within 24 hours.**
+
+---
+
+# 📋 NEXT STEPS
+
+## For Free Tier:
+1. **Use test key:** `leaf-test-370df0a2e62e`
+2. **Start building** immediately
+3. **Upgrade anytime** via Stripe links above
+
+## For Paid Tiers:
+1. **Click Stripe link** above
+2. **Complete checkout** (instant)
+3. **Receive API key** immediately via email
+4. **Start using** right away
+
+## Need Help?
+- **Support:** support@soilsidekickpro.com
+- **Documentation:** https://github.com/QWarranto/leafengines-claude-mcp
+- **Community:** Try it first, ask questions later!
+
+---
+
+**Remember:** FREE TIER = NO API KEY NEEDED! Try it now with test key. 🚀
