@@ -220,7 +220,7 @@ Based on Google's TurboQuant research (6x memory compression for LLMs).
 
 ## 🆓 Try It Free!
 
-The `turbo_quant_capabilities` tool is completely free - no API key or payment required. Perfect for testing and demonstrations!
+The `turbo_quant_capabilities`, 'get_soil_data' and 'county_lookup' tools are completely free - no API key or payment required. Perfect for testing and demonstrations!
 
 ```bash
 # Test the FREE tool
