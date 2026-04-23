@@ -87,12 +87,26 @@ clawhub install leafengines
 
 ### **Option 3: Direct API**
 ```bash
+## 🚀 **TRY IT NOW - NO API KEY NEEDED!**
+
+### **Free Tier Access (Immediate):**
+- **Soil analysis** for any US county
+- **No signup required** - just use test key leaf-test-370df0a2e62e, (if requested)
+- **Instant value** - get USDA soil data in seconds
+
+### **Quick Test (30 seconds):**
+```bash
+# Try it right now - no signup needed!
+curl -H "x-api-key: leaf-test-370df0a2e62e" \
+  -X POST https://api.soilsidekickpro.com/v1/soil/analyze \
+  -d '{"county_fips": "12086"}'
+
+curl -X POST https://app.soilsidekickpro.com/turbo-quant-capabilities
+
 # Working API now available!
 # URL: https://leafengines-agricultural-intelligence.onrender.com
 # Access: Comment on GitHub Issue #NUMBER
 
-# Test FREE tool
-curl -X POST https://app.soilsidekickpro.com/turbo-quant-capabilities
 ```
 
 ##  Pricing
