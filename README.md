@@ -123,7 +123,9 @@ curl -X POST https://app.soilsidekickpro.com/turbo-quant-capabilities
 - **EXCLUSIVE:** $0.02 (Patent-pending environmental compatibility)
 
 ### **Monthly Plans**
-- **Starter:** $149/month (5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive)
+- **Starter:** normally $149/month (5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive)
+- or via Stripe checkout (Starter: $49 Founder Pricing vs $149/mo after June 1, 2026)
+- ->https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02
 - **Pro:** $499/month (20k commoditized + 10k enhanced + 5k proprietary + 2k exclusive)
 - **Enterprise:** $1,999/month (100k commoditized + 50k enhanced + 25k proprietary + 10k exclusive)
 
