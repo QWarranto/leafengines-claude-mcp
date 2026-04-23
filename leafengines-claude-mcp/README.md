@@ -75,6 +75,16 @@ openclaw skills install clawhub:leafengines
 
 ### Option B: Claude Desktop Users
 #### 1. Get API Key
+Immediate access with test key: leaf-test-370df0a2e62e
+
+✅ Try It Now (No Waiting):
+Use test key: leaf-test-370df0a2e62e
+Immediate access to several key features
+No forms, no waiting, no approval
+Works across all platforms
+**Test key gives you:**n- Full soil analysis capabilitiesn- Crop recommendationsn- All free tier features
+
+For premium access
 Visit: [https://soilsidekickpro.com/api-docs](https://soilsidekickpro.com/api-docs)
 
 #### 2. Configure Claude Desktop
