@@ -225,7 +225,7 @@ The `turbo_quant_capabilities`, 'get_soil_data' and 'county_lookup' tools are co
 ```bash
 # Test the FREE tool
 leafengines-mcp-server
-# Then in Claude Desktop, ask: "Check TurboQuant capabilities"
+# Then in Claude Desktop, ask: "Check TurboQuant capabilities", or, "Compare corn vs soybeans vs sorghum for my 100-cre field in zip code 31215 (Fayette County, GA)", or "what is my soil type in (your county and state)?"
 ```
 
 ## 📞 Support
