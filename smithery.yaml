@@ -1,0 +1,35 @@
+# smithery.yaml
+name: leafengines-claude-mcp
+description: "Agricultural intelligence MCP server providing soil analysis, crop recommendations, weather forecasts, and environmental impact assessment."
+version: "1.0.0"
+author: QWarranto
+repository: https://github.com/QWarranto/leafengines-claude-mcp
+
+build:
+  command: npm install && npm run build
+
+startCommand:
+  type: stdio
+  command: node
+  args:
+    - dist/index.js
+
+configSchema:
+  apiKey:
+    type: string
+    title: API Key
+    description: "Optional API key for paid tiers. Free tier does not require one."
+    secret: true
+    default: ""
+
+tools:
+  - name: get_soil_data
+    description: "Analyze soil data for a US county by county_fips code"
+  - name: weather_forecast
+    description: "Get agricultural weather forecast for a location"
+  - name: crop_recommendation
+    description: "Get optimal crop recommendations based on soil and climate data"
+  - name: environmental_impact
+    description: "Assess environmental impact including carbon footprint and water usage"
+  - name: county_lookup
+    description: "Look up county information including FIPS codes"
