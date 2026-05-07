@@ -1,11 +1,11 @@
-# LeafEngines — Agricultural Intelligence Platform
+# LeafEngines MCP Server — Agricultural Intelligence for AI Agents
 
-**Patent-protected soil analysis, crop recommendations, and environmental intelligence** for AI agents, developers, and agricultural professionals worldwide. 1,092+ downloads. The only MCP server with patented algorithms in the ecosystem.
+**Patent-protected soil analysis, crop recommendations, and environmental intelligence** via Model Context Protocol. 1,092+ downloads. Works with Claude Desktop, Cursor, OpenClaw, and any MCP-compatible client.
 
 ## ⚡ Get Started Now
 
 **Free tier — no signup, no credit card:**
-- **Test key:** `leaf-test-370df0a2e62e` (paste into any config, works immediately)
+- **Test key:** `leaf-test-370df0a2e62e` (paste into config, works immediately)
 - **Free header:** `x-free-tier: true` (no key needed at all)
 
 **Ready for production? Founder pricing ends June 1, 2026:**
@@ -18,92 +18,71 @@
 
 ## 🌾 What It Does
 
-LeafEngines provides agricultural intelligence through multiple integration channels, delivering actionable insights from USDA, EPA, and NOAA data sources:
+LeafEngines gives AI agents real-time agricultural intelligence from USDA, EPA, and NOAA data:
 
-- **Soil Analysis** — pH, nutrients, organic matter, drainage, NPK recommendations from USDA SSURGO
+- **Soil Analysis** — pH, nutrients, organic matter, drainage, recommendations for any US county
 - **Crop Recommendations** — Location-specific planting advice based on soil and climate
-- **Environmental Impact** — Patent-pending Environmental Compatibility Score with satellite data fusion
-- **Carbon Credits** — Proprietary models for compliance reporting and sustainability scoring
+- **Environmental Impact** — Carbon credits, sustainability scoring, compliance data
 - **Water Quality** — EPA monitoring data and contamination risk assessment
 - **Climate Insights** — NOAA historical records and agricultural forecasting
-- **Offline-First** — Works in remote/deep canopy areas with GPS-denied capabilities
-- **TurboQuant** — 6x memory compression, 8x faster inference for edge devices (free check)
+- **TurboQuant Check** — Hardware optimization for edge/offline deployment (always free)
 
-## 🚀 Integration Options
+## 🚀 Quick Start
 
-### MCP Server (Claude Desktop, Cursor, any MCP client)
+### Step 1: Install
+
 ```bash
 npm install -g @ancientwhispers54/leafengines-mcp-server
 ```
-[→ MCP Server README](leafengines-mcp-server/README.md) | [npm package](https://www.npmjs.com/package/@ancientwhispers54/leafengines-mcp-server) | [MCP Registry](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
 
-### OpenClaw Skill
-```bash
-clawhub install leafengines
+### Step 2: Configure
+
+**For Claude Desktop** — add to `~/.config/claude-desktop/mcp.json`:
+
+```json
+{
+  "mcpServers": {
+    "leafengines": {
+      "command": "npx",
+      "args": ["@ancientwhispers54/leafengines-mcp-server"],
+      "env": {
+        "LEAFENGINES_API_KEY": "leaf-test-370df0a2e62e"
+      }
+    }
+  }
+}
 ```
-[→ ClawHub Skill README](leafengines-clawhub-skill/README.md)
 
-### Claude.ai Skill
-[→ Claude Skill README](leafengines-claude-skill/README.md)
+**For Cursor** — add to your Cursor MCP configuration with the same API key.
 
-### n8n Automation
-```bash
-npm install n8n-nodes-leafengines
-```
-[→ n8n Nodes README](https://github.com/QWarranto/n8n-nodes-leafengines)
+### Step 3: Ask
 
-### Node-RED / IoT
-```bash
-npm install node-red-contrib-leafengines
-```
-[→ Node-RED README](https://github.com/QWarranto/node-red-contrib-leafengines)
+> "What's the soil like in Fulton County, Georgia for corn planting?"
 
-### QGIS Plugin
-**Officially approved — Plugin ID 4987.** 500,000+ QGIS users can discover it.
-[→ Install from QGIS Plugin Manager](https://plugins.qgis.org/plugins/qgis_leafengines/) | [→ QGIS Implementation Guide](https://app.soilsidekickpro.com/docs/wokflows/13-qgis-implementation-guide)
+Your AI agent will use LeafEngines tools automatically to analyze soil, recommend crops, and provide environmental context.
 
-### Professional Soil Reports (No Coding)
-[soilcertify.com →](https://soilcertify.com) — 10-meter satellite resolution, USDA + Sentinel-2 data, from $29/report
+## 🔧 Available Tools
 
-## 🛠️ Available Tools (10 Total)
-
-### Free
-| Tool | What It Returns |
-|------|----------------|
-| `turbo_quant_capabilities` | Hardware optimization check — always free, no auth required |
-
-### Commoditized ($0.001/call)
-| Tool | What It Returns |
-|------|----------------|
-| `get_soil_data` | USDA SSURGO soil analysis (pH, nutrients, organic matter) |
-| `county_lookup` | Resolve US location names to FIPS codes |
-| `territorial_water_quality` | EPA water quality data and contamination risk scores |
-
-### Enhanced ($0.003/call)
-| Tool | What It Returns |
-|------|----------------|
-| `agricultural_intelligence` | AI-powered agricultural insights and recommendations |
-| `safe_identification` | Plant identification with toxic lookalike warnings |
-
-### Proprietary ($0.010/call)
-| Tool | What It Returns |
-|------|----------------|
-| `carbon_credit_calculator` | Carbon credit potential using proprietary models |
-| `generate_vrt_prescription` | Variable rate technology prescription maps |
-
-### Exclusive ($0.020/call)
-| Tool | What It Returns |
-|------|----------------|
-| `environmental_impact_analysis` | Patent-pending Environmental Compatibility Score with AlphaEarth satellite fusion |
-| `planting_optimization` | Multi-parameter phenology models for optimal planting windows |
+| Tool | What It Returns | Tier |
+|------|----------------|------|
+| `get_soil_analysis` | USDA SSURGO soil composition, pH, NPK, drainage, recommendations | Commoditized |
+| `county_lookup` | Resolve location names to FIPS codes | Commoditized |
+| `territorial_water_quality` | EPA water quality and contamination risk scores | Commoditized |
+| `agricultural_intelligence` | AI-powered agricultural insights and recommendations | Enhanced |
+| `safe_identification` | Plant identification with toxic lookalike warnings | Enhanced |
+| `carbon_credit_calculator` | Carbon credit potential using proprietary models | Proprietary |
+| `generate_vrt_prescription` | Variable rate technology prescription maps | Proprietary |
+| `environmental_impact_analysis` | Patent-pending Environmental Compatibility Score with satellite data fusion | Exclusive |
+| `planting_optimization` | Multi-parameter phenology models for optimal planting windows | Exclusive |
+| `turbo_quant_capabilities` | Hardware optimization check — **always free, no auth required** | Free |
 
 ## 💰 Pricing
 
 ### Free Tier — No Credit Card
-- **Test key:** `leaf-test-370df0a2e62e`
-- **Free header:** `x-free-tier: true`
+- **Test key:** `leaf-test-370df0a2e62e` — works immediately
+- **Free header:** `x-free-tier: true` — no key needed
 - **Includes:** Basic soil analysis, county lookup, TurboQuant check
-- **Try it:** [soilcertify.com →](https://soilcertify.com)
+- [Start free →](https://soilcertify.com)
 
 ### Pay-As-You-Go
 
@@ -136,6 +115,48 @@ npm install node-red-contrib-leafengines
 | **United Kingdom** | £38/mo (VAT incl.) | £115/mo (VAT incl.) | Afterpay/Clearpay, Apple/Google Pay |
 | **Australia** | AU$75/mo (GST incl.) | AU$225/mo (GST incl.) | Afterpay, Apple/Google Pay |
 
+## 🔗 Integration Guides
+
+### Claude Desktop
+Add to `mcp.json` as shown in Quick Start above.
+
+### OpenClaw
+```yaml
+skills:
+  leafengines:
+    enabled: true
+    config:
+      api_key: leaf-test-370df0a2e62e
+      base_url: https://app.soilsidekickpro.com/api-docs
+```
+
+### Cursor
+Add to your Cursor MCP configuration with the same API key.
+
+### MCP Registry
+- **Package:** `io.github.QWarranto/leafengines` version 1.1.5+
+- **Registry:** [https://registry.modelcontextprotocol.io](https://registry.modelcontextprotocol.io)
+
+## 📖 Examples
+
+### Soil Analysis
+```
+User: "What's the soil like in Travis County, Texas?"
+AI: [Uses get_soil_analysis] "The soil in Travis County is primarily..."
+```
+
+### Crop Planning
+```
+User: "Should I plant corn or soybeans on my 100-acre field in Iowa?"
+AI: [Uses multiple tools] "Based on soil analysis, water quality, and climate data..."
+```
+
+### Environmental Assessment
+```
+User: "What's the environmental impact of this property?"
+AI: [Uses environmental_impact_analysis + carbon_credit_calculator] "Environmental Compatibility Score: 78/100..."
+```
+
 ## 🎯 Use Cases
 
 ### For Agronomists & Soil Scientists
@@ -162,40 +183,39 @@ npm install node-red-contrib-leafengines
 - ✅ **Operations dashboard** — Real-time monitoring and anomaly detection
 - ✅ **PII protection** — Automatic sanitization of sensitive data
 - ✅ **Compliance ready** — SOC 2 alignment, export capabilities
+- ✅ **Session correlation** — Trace multi-step agent reasoning
 
-## 🎯 QGIS Plugin Officially Approved
+## 🆓 Free Tier — No Commitment
 
-**Plugin ID:** 4987 (LeafEngines Agricultural Intelligence) | **Version:** 1.0.2 | **Status:** ✅ PUBLICLY AVAILABLE
+**Two ways to test, zero friction:**
+1. **Test key:** `leaf-test-370df0a2e62e` — paste into config, works immediately
+2. **Free header:** `x-free-tier: true` — no API key needed at all
 
-[Download QGIS Plugin →](https://plugins.qgis.org/plugins/qgis_leafengines/version/1.0.2/download/)
+**What's included:**
+- Basic soil analysis with county FIPS codes
+- USDA soil data access
+- TurboQuant capabilities check (always free)
+- Enough requests for evaluation and prototyping
 
-Officially approved by QGIS after rigorous review. Discoverable by 500,000+ QGIS users. Preferred for government/EPA/USDA-related procurements.
+## 🔗 Related Products
+
+- **[LeafEngines ClawHub Skill](https://github.com/QWarranto/leafengines-clawhub-skill)** — OpenClaw agent integration
+- **[n8n Nodes](https://github.com/QWarranto/n8n-nodes-leafengines)** — n8n business automation
+- **[Node-RED Nodes](https://github.com/QWarranto/node-red-contrib-leafengines)** — IoT/edge automation
+- **[QGIS Plugin](https://plugins.qgis.org/plugins/qgis_leafengines/)** — 500,000+ QGIS users (Plugin ID 4987)
+- **[SoilCertify](https://soilcertify.com)** — Professional soil reports, no coding required
 
 ## 📞 Support
 
 - **API Documentation:** [app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs)
 - **MCP Documentation:** [app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
-- **User Guide:** [app.soilsidekickpro.com/user-guide](https://app.soilsidekickpro.com/user-guide)
 - **GitHub Issues:** [github.com/QWarranto/leafengines-claude-mcp/issues](https://github.com/QWarranto/leafengines-claude-mcp/issues)
 - **Email:** support@soilsidekickpro.com
 - **Partnerships:** partnerships@leafengines.com
 
-## 🔗 Repository Structure
-
-```
-leafengines-claude-mcp/
-├── leafengines-mcp-server/          # MCP Server (npm package)
-├── leafengines-clawhub-skill/       # OpenClaw skill
-├── leafengines-claude-skill/        # Claude.ai skill
-├── leafengines-agricultural-intelligence/ # Core intelligence
-├── leafengines-opportunity-scanner/ # Market opportunity tools
-├── leafengines-arbitrage-skill/     # Agricultural arbitrage
-└── leafengines-workspace-skill/     # Workspace management
-```
-
 ## 📄 License
 
-Integration code: Apache 2.0 / MIT. API service: Commercial terms with free tier. Core algorithms: Patent-protected (U.S. #19/320,727, #19/544,827).
+MIT License — integration code is open source. API service has commercial terms with free tier available. Core algorithms are patent-protected (U.S. #19/320,727, #19/544,827).
 
 ---
 

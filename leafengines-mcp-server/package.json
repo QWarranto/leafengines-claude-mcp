@@ -1,0 +1,51 @@
+{
+  "name": "@ancientwhispers54/leafengines-mcp-server",
+  "version": "1.1.9",
+  "mcpName": "io.github.QWarranto/leafengines",
+  "description": "LeafEngines MCP Server \u2014 Patent-protected agricultural intelligence for AI agents. 1,092+ downloads. Free tier with test key leaf-test-370df0a2e62e. Soil analysis, crop recommendations, environmental intelligence from USDA, EPA, NOAA data. Works with Claude Desktop, Cursor, OpenClaw.",
+  "main": "dist/index.js",
+  "bin": {
+    "leafengines-mcp-server": "bin/leafengines-mcp-server.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QWarranto/leafengines-claude-mcp/tree/main/leafengines-claude-mcp"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "agriculture",
+    "soil-analysis",
+    "crop-recommendation",
+    "weather",
+    "environmental-impact",
+    "turboquant",
+    "leafengines"
+  ],
+  "author": "QWarranto",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "tsx": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "CONTRIBUTING.md",
+    "LICENSE"
+  ]
+}
