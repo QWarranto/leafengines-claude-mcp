@@ -8,9 +8,9 @@
 - **Test key:** `leaf-test-370df0a2e62e` (paste into config, works immediately)
 - **Free header:** `x-free-tier: true` (no key needed at all)
 
-**Ready for production? Founder pricing ends June 1, 2026:**
-- [Starter — $10/mo → lifetime $49/mo lock →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02)
-- [Pro — $49/mo → lifetime $149/mo lock →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03)
+**Ready for production?**
+- [Starter — $149/mo →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04)
+- [Pro — $499/mo →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05)
 
 **Get a professional soil report (no coding required):** [soilcertify.com →](https://soilcertify.com)
 
@@ -81,39 +81,37 @@ Your AI agent will use LeafEngines tools automatically to analyze soil, recommen
 ### Free Tier — No Credit Card
 - **Test key:** `leaf-test-370df0a2e62e` — works immediately
 - **Free header:** `x-free-tier: true` — no key needed
-- **Includes:** Basic soil analysis, county lookup, TurboQuant check
+- **Includes:** 3 AI calls/day + 50 data lookups/day. County lookup, water quality, TurboQuant check always free.
 - [Start free →](https://soilcertify.com)
 
-### Pay-As-You-Go
+### Credit Packs — Pay As You Go
 
-| Tier | Price | Per-Call Rate | What You Get | Buy |
-|------|-------|--------------|--------------|-----|
-| Commoditized | $0.50/bundle | $0.001/call | Basic soil/weather, county lookup | [Buy →](https://buy.stripe.com/3cIdR99oWajZdjI6EKaMU07) |
-| Enhanced | $1.50/bundle | $0.003/call | Environmental impact, crop suitability, water quality | [Buy →](https://buy.stripe.com/7sY28reJg1NtenM8MSaMU0b) |
-| Proprietary | $5.00/bundle | $0.010/call | Planting optimization, carbon credits, VRT | [Buy →](https://buy.stripe.com/3cIeVd9oW1NtgvU1kqaMU09) |
-| Exclusive | $10.00/bundle | $0.020/call | Patent-pending environmental compatibility scoring | [Buy →](https://buy.stripe.com/6oU4gzbx40Jp6Vk1kqaMU0a) |
+| Pack | Price | Credits | Per-Call Rate | Best For | Buy |
+|------|-------|---------|---------------|----------|-----|
+| Starter | $10.00 | 1,000 | $0.01/call | Low-volume Telegram users, hobby developers | [Buy →](https://buy.stripe.com/3cIdR99oWajZdjI6EKaMU07) |
+| Pro | $25.00 | 5,000 | $0.005/call | Regular users, n8n/Node-RED integrations | [Buy →](https://buy.stripe.com/7sY28reJg1NtenM8MSaMU0b) |
+| Enterprise | $50.00 | 25,000 | $0.002/call | High-volume users, MCP/Clawhub clients | [Buy →](https://buy.stripe.com/3cIeVd9oW1NtgvU1kqaMU09) |
 
-### Monthly Subscriptions
+> One-time purchase. Credits never expire. All endpoints unlocked. Data lookups always free.
 
-| Plan | Price | Included Calls | Best For | Subscribe |
-|------|-------|---------------|----------|-----------|
-| **Founder Starter** | $10/mo → lifetime $49/mo | 10,000/mo | Solo developers, prototyping | [Subscribe →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02) |
-| **Founder Pro** | $49/mo → lifetime $149/mo | 35,000/mo | Production apps, teams | [Subscribe →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03) |
-| Starter | $149/mo | 10,000/mo | Solo developers, prototyping | [Subscribe →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04) |
-| Pro | $499/mo | 35,000/mo | Production apps, teams | [Subscribe →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05) |
-| Enterprise | $1,999/mo | 175,000+/mo | White-label, SLA, OEM | [Subscribe →](https://buy.stripe.com/eVqaEXfNkajZ6Vk0gmaMU06) |
-| Enterprise Bundle | $3,499/mo | 685,000/mo | Large OEM, max volume | Contact: sales@leafengines.com |
+### Monthly Volume Subscriptions
 
-> ⏰ **Founder pricing expires June 1, 2026.** First 100 customers lock lifetime rates.
+| Plan | Price | What You Get | Best For | Subscribe |
+|------|-------|--------------|----------|-----------|
+| Starter | $149/mo | Unlimited AI calls + email support | Small teams, production n8n workflows | [Subscribe →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04) |
+| Pro | $499/mo | Higher throughput + priority support | Growing integrations, MCP servers | [Subscribe →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05) |
+| Enterprise | $1,999/mo | Unlimited volume + custom SLAs + white-label | OEM partners, enterprise deployments | [Subscribe →](https://buy.stripe.com/eVqaEXfNkajZ6Vk0gmaMU06) |
+
+> **Metered pricing effective June 1, 2026.** Pay only for AI calls you make. Data lookups are always free.
 
 ### International Pricing
 
-| Region | Starter | Pro | Local Payment Methods |
-|--------|---------|-----|----------------------|
-| **United States** | $49/mo | $149/mo | Card, Apple Pay, Google Pay, Affirm |
-| **European Union** | €45/mo (VAT incl.) | €135/mo (VAT incl.) | Klarna, iDEAL, EPS, Apple/Google Pay |
-| **United Kingdom** | £38/mo (VAT incl.) | £115/mo (VAT incl.) | Afterpay/Clearpay, Apple/Google Pay |
-| **Australia** | AU$75/mo (GST incl.) | AU$225/mo (GST incl.) | Afterpay, Apple/Google Pay |
+|| Region | Starter | Pro | Local Payment Methods |
+||--------|---------|-----|----------------------|
+|| **United States** | $149/mo | $499/mo | Card, Apple Pay, Google Pay, Affirm |
+|| **European Union** | €135/mo (VAT incl.) | €450/mo (VAT incl.) | Klarna, iDEAL, EPS, Apple/Google Pay |
+|| **United Kingdom** | £115/mo (VAT incl.) | £385/mo (VAT incl.) | Afterpay/Clearpay, Apple/Google Pay |
+|| **Australia** | AU$225/mo (GST incl.) | AU$750/mo (GST incl.) | Afterpay, Apple/Google Pay |
 
 ## 🔗 Integration Guides
 
