@@ -1,6 +1,6 @@
 {
   "name": "@ancientwhispers54/leafengines-mcp-server",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "mcpName": "io.github.QWarranto/leafengines",
   "description": "LeafEngines MCP Server — Patent-protected agricultural intelligence for AI agents. 1,092+ downloads. Free tier with test key leaf-test-370df0a2e62e. Soil analysis, crop recommendations, environmental intelligence from USDA, EPA, NOAA data. Works with Claude Desktop, Cursor, OpenClaw.",
   "main": "dist/index.js",
