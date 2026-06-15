@@ -35,7 +35,7 @@ export async function sendV200Announcement(server: Server) {
       type: "server_update",
       version: "2.0.0",
       title: "🎉 LeafEngines v2.0.0 Update",
-      message: "Enhanced support & extended founder pricing through June 1, 2026",
+      message: "Enhanced support & metered pricing — credit packs + monthly subscriptions",
       features: [
         "Usage Insights Dashboard - See your patterns, optimize workflow",
         "Smarter Error Diagnostics - 70% faster troubleshooting",
@@ -48,8 +48,8 @@ export async function sendV200Announcement(server: Server) {
         status: "operational"
       },
       pricing: {
-        founder_deadline: "2026-06-01",
-        founder_limit: 100,
+        pricing_model: "metered",
+        partner_program: true,
         plans: {
           starter: "$10/mo → $49/mo lifetime lock",
           pro: "$49/mo → $149/mo lifetime lock"

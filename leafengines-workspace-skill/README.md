@@ -255,11 +255,11 @@ MIT License - see LICENSE file for details.
 - **Test key:** `leaf-test-370df0a2e62e` (works immediately)
 - **Free header:** `x-free-tier: true` (no key needed)
 
-**Ready for production? Founder pricing ends June 1, 2026:**
-- [Starter — $10/mo → lifetime $49/mo lock →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02)
-- [Pro — $49/mo → lifetime $149/mo lock →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03)
+**Ready for production?**
+- [Starter — $149/mo →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04)
+- [Pro — $499/mo →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05)
 
-**Get a professional soil report (no coding required):** [soilcertify.com →](https://soilcertify.com)
+**Partner Program:** Stop building for free. Use our API to sell $100–200 soil reports to local farmers, drone pilots, and GIS communities. You buy each report for $25. [Join our Partner Program →](https://soilcertify.com)
 
 ---
 
@@ -275,26 +275,23 @@ MIT License - see LICENSE file for details.
 - **Includes:** Basic soil analysis, county lookup, TurboQuant check
 - **Try it:** [soilcertify.com →](https://soilcertify.com)
 
-### Pay-As-You-Go
+### Credit Packs — Pay As You Go
 
-| Tier | Price | Per-Call Rate | What You Get | Buy |
-|------|-------|--------------|--------------|-----|
-| Commoditized | $0.50/bundle | $0.001/call | Basic soil/weather, county lookup | [Buy →](https://buy.stripe.com/3cIdR99oWajZdjI6EKaMU07) |
-| Enhanced | $1.50/bundle | $0.003/call | Environmental impact, crop suitability | [Buy →](https://buy.stripe.com/7sY28reJg1NtenM8MSaMU0b) |
-| Proprietary | $5.00/bundle | $0.010/call | Planting optimization, carbon credits | [Buy →](https://buy.stripe.com/3cIeVd9oW1NtgvU1kqaMU09) |
-| Exclusive | $10.00/bundle | $0.020/call | Patent-pending env compatibility scoring | [Buy →](https://buy.stripe.com/6oU4gzbx40Jp6Vk1kqaMU0a) |
+| Pack | Price | Credits | Per-Call Rate | Best For | Buy |
+|------|-------|---------|---------------|----------|-----|
+| Starter | $10.00 | 1,000 | $0.01/call | Low-volume users, hobby developers | [Buy →](https://buy.stripe.com/3cIdR99oWajZdjI6EKaMU07) |
+| Pro | $25.00 | 5,000 | $0.005/call | Regular users, integrations | [Buy →](https://buy.stripe.com/7sY28reJg1NtenM8MSaMU0b) |
+| Enterprise | $50.00 | 25,000 | $0.002/call | High-volume users, MCP/Clawhub clients | [Buy →](https://buy.stripe.com/3cIeVd9oW1NtgvU1kqaMU09) |
 
 ### Monthly Subscriptions
 
 | Plan | Price | Included Calls | Best For | Subscribe |
 |------|-------|---------------|----------|-----------|
-| **Founder Starter** | $10/mo → lifetime $49/mo | 10,000/mo | Solo developers | [Subscribe →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02) |
-| **Founder Pro** | $49/mo → lifetime $149/mo | 35,000/mo | Production apps | [Subscribe →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03) |
 | Starter | $149/mo | 10,000/mo | Solo developers | [Subscribe →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04) |
 | Pro | $499/mo | 35,000/mo | Production apps, teams | [Subscribe →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05) |
 | Enterprise | $1,999/mo | 175,000+/mo | White-label, SLA, OEM | [Subscribe →](https://buy.stripe.com/eVqaEXfNkajZ6Vk0gmaMU06) |
 
-> ⏰ **Founder pricing expires June 1, 2026.** First 100 customers lock lifetime rates.
+
 
 ---
 

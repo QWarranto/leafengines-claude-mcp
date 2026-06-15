@@ -41,7 +41,7 @@ leafengines-mcp-server
 ### **OPTION C: Emergency API Service (AVAILABLE NOW)**
 **Working API - Free Test Keys Available:**
 - ✅ **API is LIVE:** `https://leafengines-agricultural-intelligence.onrender.com`
-- ✅ **Test key:** `leaf-test-370df0a2e62e` (5000 free calls)
+- ✅ **Test key:** `YOUR_API_KEY_HERE` (5000 free calls)
 - ✅ **Endpoints:** `/v1/soil/analyze`, `/v1/crop/recommend`, `/v1/health`
 - ✅ **Monitoring:** `/v1/monitor/public` for usage stats
 - 📧 **Production API:** Coming soon with payment system

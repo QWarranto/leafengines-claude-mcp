@@ -9,7 +9,7 @@ Thank you for your patience and for being part of our 1,532-strong developer com
 **API Key:** `leaf-emergency-[UNIQUE_CODE]`
 **Valid Until:** [Date 7 days from now]
 **API Limit:** [10,000 or 5,000] calls
-**Base URL:** `https://api.soilsidekickpro.com/v1`
+**Base URL:** `https://leafengines-agricultural-intelligence.onrender.com/v1`
 
 ## Documentation:
 - Quick Start: https://soilsidekickpro.com/docs/quickstart

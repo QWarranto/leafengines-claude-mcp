@@ -257,7 +257,7 @@ const freeTools = ['county_lookup', 'get_soil_data'];
       content: [
         {
           type: "text",
-          text: `API key required for ${name}. Free tools available without key: county_lookup, get_soil_data.\n\nGet full access:\n• Starter ($10/mo → $49/mo lifetime): https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02\n• Pro ($49/mo → $149/mo lifetime): https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03\n\nFounder pricing — first 100 only.`,
+          text: `API key required for ${name}. Free tools available without key: county_lookup, get_soil_data.\n\nGet full access:\n• Starter ($149/mo): https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04\n• Pro ($499/mo): https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05\n\nMetered pricing — credit packs + monthly subscriptions.`,
         },
       ],
       isError: true,

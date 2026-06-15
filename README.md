@@ -33,7 +33,23 @@ leafengines-claude-mcp/
 └── leafengines-workspace-skill/     # Workspace management
 ```
 
-## 🌾 Features
+## 🌾 Core Capabilities
+
+### USDA, EPA & NOAA Data Integration
+- **USDA Soil Analysis** - Comprehensive soil composition, pH, N/P/K recommendations from SSURGO database
+- **EPA Water Quality** - National water quality monitoring and contamination risk assessment
+- **NOAA Climate Insights** - Historical weather data, climate trends, and agricultural forecasting
+
+### Offline-First for Deep Canopy & GPS-Denied Operations
+- **Works anywhere** - No internet required for core functionality
+- **Deep canopy compatible** - Designed for remote agricultural environments with limited connectivity
+- **GPS-denied ready** - Military-grade positioning algorithms for contested environments
+- **Offline-first architecture** - Local processing without cloud dependency
+
+### Environmental Intelligence & Carbon Credit Calculations
+- **Carbon Credit Calculations** - Accurate emissions tracking for regulatory compliance
+- **Sustainability Scoring** - Environmental impact assessment and reporting
+- **Environmental compatibility** - Patent-pending algorithms for ecosystem analysis
 
 ## 🛡️ Enterprise-Grade Governance (New!)
 
@@ -69,6 +85,36 @@ leafengines-claude-mcp/
 ### **Option 1: MCP Server (Claude Desktop)**
 ```bash
 # Install globally
+
+## 🎯 QGIS Plugin Officially Approved!
+
+**Plugin ID:** 4987 (LeafEngines Agricultural Intelligence)  
+**Version:** 1.0.2 Experimental  
+**Status:** ✅ **PUBLICLY AVAILABLE**  
+**Download:** https://plugins.qgis.org/plugins/qgis_leafengines/version/1.0.2/download/
+
+### Key Features:
+- **USDA soil data** - Soil composition, pH, N/P/K recommendations
+- **EPA water quality** - Water quality metrics and analysis
+- **NOAA climate data** - Historical weather patterns and agricultural forecasting
+- **Satellite vegetation indices** - NDVI, water-stress overlays from NASA MODIS
+- **AI-powered crop recommendations** - Tailored to exact field polygons
+- **Carbon credit calculations** - Environmental impact scoring for regulatory compliance
+- **Offline-first architecture** - Works in remote/"deep canopy" areas
+- **GPS-denied capabilities** - Military-proven algorithms for contested environments
+
+### Strategic Advantages for Partners:
+1. **Pre-vetted, low-risk integration** - Officially approved by QGIS after rigorous review
+2. **Seamless future-proofing** - Aligns with QGIS release cycles (QGIS 4.0.0+ ready)
+3. **Instant credibility** - Discoverable by 500,000+ QGIS users in agriculture sector
+4. **Regulatory advantage** - Preferred for government/EPA/USDA-related procurements
+5. **Ecosystem power** - Integrates with thousands of complementary QGIS plugins
+
+### For OEM Partners:
+Embed LeafEngines agricultural intelligence directly into your hardware or software platforms with confidence. The official QGIS approval eliminates weeks of custom validation, security audits, and compatibility testing.
+
+*Approved: April 14, 2026*
+
 npm install -g @ancientwhispers54/leafengines-mcp-server
 
 # Run the server
@@ -87,26 +133,12 @@ clawhub install leafengines
 
 ### **Option 3: Direct API**
 ```bash
-## 🚀 **TRY IT NOW - NO API KEY NEEDED!**
-
-### **Free Tier Access (Immediate):**
-- **Soil analysis** for any US county
-- **No signup required** - just use test key leaf-test-370df0a2e62e, (if requested)
-- **Instant value** - get USDA soil data in seconds
-
-### **Quick Test (30 seconds):**
-```bash
-# Try it right now - no signup needed!
-curl -H "x-api-key: leaf-test-370df0a2e62e" \
-  -X POST https://api.soilsidekickpro.com/v1/soil/analyze \
-  -d '{"county_fips": "12086"}'
-
-curl -X POST https://app.soilsidekickpro.com/turbo-quant-capabilities
-
 # Working API now available!
 # URL: https://leafengines-agricultural-intelligence.onrender.com
 # Access: Comment on GitHub Issue #NUMBER
 
+# Test FREE tool
+curl -X POST https://app.soilsidekickpro.com/turbo-quant-capabilities
 ```
 
 ##  Pricing
@@ -123,9 +155,7 @@ curl -X POST https://app.soilsidekickpro.com/turbo-quant-capabilities
 - **EXCLUSIVE:** $0.02 (Patent-pending environmental compatibility)
 
 ### **Monthly Plans**
-- **Starter:** normally $149/month (5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive)
-- or via Stripe checkout (Starter: $49 Founder Pricing vs $149/mo after June 1, 2026)
-- ->https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02
+- **Starter:** $149/month (5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive)
 - **Pro:** $499/month (20k commoditized + 10k enhanced + 5k proprietary + 2k exclusive)
 - **Enterprise:** $1,999/month (100k commoditized + 50k enhanced + 25k proprietary + 10k exclusive)
 
@@ -236,12 +266,12 @@ Based on Google's TurboQuant research (6x memory compression for LLMs).
 
 ## 🆓 Try It Free!
 
-The `turbo_quant_capabilities`, 'get_soil_data' and 'county_lookup' tools are completely free - no API key or payment required. Perfect for testing and demonstrations!
+The `turbo_quant_capabilities` tool is completely free - no API key or payment required. Perfect for testing and demonstrations!
 
 ```bash
 # Test the FREE tool
 leafengines-mcp-server
-# Then in Claude Desktop, ask: "Check TurboQuant capabilities", or, "Compare corn vs soybeans vs sorghum for my 100-acre field in zip code 31215 (Fayette County, GA)", or "what is my soil type in (your county and state)?"
+# Then in Claude Desktop, ask: "Check TurboQuant capabilities"
 ```
 
 ## 📞 Support

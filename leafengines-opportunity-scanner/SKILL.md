@@ -6,11 +6,11 @@
 - **Test key:** `leaf-test-370df0a2e62e` (works immediately)
 - **Free header:** `x-free-tier: true` (no key needed)
 
-**Ready for production? Founder pricing ends June 1, 2026:**
-- [Starter — $10/mo → lifetime $49/mo lock →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02)
-- [Pro — $49/mo → lifetime $149/mo lock →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03)
+**Ready for production?**
+- [Starter — $149/mo →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04)
+- [Pro — $499/mo →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05)
 
-**Get a professional soil report (no coding required):** [soilcertify.com →](https://soilcertify.com)
+**Partner Program:** Stop building for free. Use our API to sell $100–200 soil reports to local farmers, drone pilots, and GIS communities. You buy each report for $25. [Join our Partner Program →](https://soilcertify.com)
 
 ---
 
@@ -267,13 +267,11 @@ MIT License - See LICENSE file for details.
 
 | Plan | Price | Included Calls | Best For | Subscribe |
 |------|-------|---------------|----------|-----------|
-| **Founder Starter** | $10/mo → lifetime $49/mo | 10,000/mo | Solo developers | [Subscribe →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02) |
-| **Founder Pro** | $49/mo → lifetime $149/mo | 35,000/mo | Production apps | [Subscribe →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03) |
 | Starter | $149/mo | 10,000/mo | Solo developers | [Subscribe →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04) |
 | Pro | $499/mo | 35,000/mo | Production apps, teams | [Subscribe →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05) |
 | Enterprise | $1,999/mo | 175,000+/mo | White-label, SLA, OEM | [Subscribe →](https://buy.stripe.com/eVqaEXfNkajZ6Vk0gmaMU06) |
 
-> ⏰ **Founder pricing expires June 1, 2026.** First 100 customers lock lifetime rates.
+
 
 ---
 

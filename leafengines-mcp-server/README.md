@@ -12,7 +12,7 @@
 - [Starter — $149/mo →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04)
 - [Pro — $499/mo →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05)
 
-**Get a professional soil report (no coding required):** [soilcertify.com →](https://soilcertify.com)
+**Partner Program:** Stop building for free. Use our API to sell $100–200 soil reports to local farmers, drone pilots, and GIS communities. You buy each report for $25. [Join our Partner Program →](https://soilcertify.com)
 
 ---
 
@@ -102,7 +102,6 @@ Your AI agent will use LeafEngines tools automatically to analyze soil, recommen
 | Pro | $499/mo | Higher throughput + priority support | Growing integrations, MCP servers | [Subscribe →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05) |
 | Enterprise | $1,999/mo | Unlimited volume + custom SLAs + white-label | OEM partners, enterprise deployments | [Subscribe →](https://buy.stripe.com/eVqaEXfNkajZ6Vk0gmaMU06) |
 
-> **Metered pricing effective June 1, 2026.** Pay only for AI calls you make. Data lookups are always free.
 
 ### International Pricing
 
@@ -161,13 +160,13 @@ AI: [Uses environmental_impact_analysis + carbon_credit_calculator] "Environment
 - **Field analysis** — USDA SSURGO data for any US county, instantly
 - **Carbon credit assessment** — Proprietary models for compliance reporting
 - **Environmental impact scoring** — Patent-pending satellite data fusion
-- **Get professional reports without coding:** [soilcertify.com →](https://soilcertify.com)
+- **Partner Program:** [Sell soil reports to your clients →](https://soilcertify.com)
 
 ### For Agricultural Consultants
 - **Client-ready analysis** — Soil composition, drainage, NPK recommendations
 - **Crop optimization** — Multi-parameter phenology for planting windows
 - **Water quality assessment** — EPA data with contamination risk scores
-- **Sell reports to clients:** [soilcertify.com →](https://soilcertify.com) (172%+ profit margin at $29/mo)
+- **Sell reports to clients:** [Join Partner Program →](https://soilcertify.com) (4× markup on $25 wholesale)
 
 ### For Developers & AI Engineers
 - **MCP integration** — Works with Claude, Cursor, OpenClaw, any MCP client
