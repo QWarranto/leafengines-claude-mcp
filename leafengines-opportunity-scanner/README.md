@@ -325,6 +325,9 @@ Attribution appreciated but not required. If you make significant profits, consi
 
 **Partner Program:** Stop building for free. Use our API to sell $100–200 soil reports to local farmers, drone pilots, and GIS communities. You buy each report for $25. [Join our Partner Program →](https://soilcertify.com)
 
+**Preliminary Site Scan - SoilCertify**
+Quick geotechnical overview with essential soil data and basic risk indicators.
+https://buy.stripe.com/fZu00j44C0Jp4Nc3syaMU0f
 ---
 
 **Ready to pioneer the next frontier of agent arbitrage?**
@@ -354,9 +357,9 @@ open https://discord.gg/clawd
 
 | Pack | Price | Credits | Per-Call Rate | Best For | Buy |
 |------|-------|---------|---------------|----------|-----|
-| Starter | $10.00 | 1,000 | $0.01/call | Low-volume users, hobby developers | [Buy →](https://buy.stripe.com/3cIdR99oWajZdjI6EKaMU07) |
-| Pro | $25.00 | 5,000 | $0.005/call | Regular users, integrations | [Buy →](https://buy.stripe.com/7sY28reJg1NtenM8MSaMU0b) |
-| Enterprise | $50.00 | 25,000 | $0.002/call | High-volume users, MCP/Clawhub clients | [Buy →](https://buy.stripe.com/3cIeVd9oW1NtgvU1kqaMU09) |
+| Starter | $10.00 | 1,000 | $0.01/call | Low-volume users, hobby developers | [Buy →](https://buy.stripe.com/bJe3cvfNk77N5RgfbgaMU0e) |
+| Pro | $25.00 | 5,000 | $0.005/call | Regular users, integrations | [Buy →](https://buy.stripe.com/cNi9AT1Wu0Jp93s8MSaMU0c) |
+| Enterprise | $50.00 | 25,000 | $0.002/call | High-volume users, MCP/Clawhub clients | [Buy →](https://buy.stripe.com/28EeVd9oWeAf2F48MSaMU0d) |
 
 ### Monthly Subscriptions
 
@@ -364,7 +367,7 @@ open https://discord.gg/clawd
 |------|-------|---------------|----------|-----------|
 | Starter | $149/mo | 10,000/mo | Solo developers | [Subscribe →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04) |
 | Pro | $499/mo | 35,000/mo | Production apps, teams | [Subscribe →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05) |
-| Enterprise | $1,999/mo | 175,000+/mo | White-label, SLA, OEM | [Subscribe →](https://buy.stripe.com/eVqaEXfNkajZ6Vk0gmaMU06) |
+| Enterprise | $1,999/mo | 175,000+/mo | White-label, SLA, OEM | [Subscribe →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05) |
 
 
 
