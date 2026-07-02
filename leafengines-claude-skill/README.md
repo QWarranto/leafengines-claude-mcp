@@ -1,5 +1,7 @@
 # LeafEngines Claude Skill — Agricultural Intelligence for Claude.ai
 
+> 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+
 **Soil analysis, crop recommendations, and environmental intelligence** for Claude.ai users. Patent-protected algorithms. Works with free test key — no signup required.
 
 ## ⚡ Get Started Now

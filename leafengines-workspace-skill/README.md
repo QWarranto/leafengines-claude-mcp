@@ -1,5 +1,7 @@
 # LeafEngines Workspace Skill
 
+> 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+
 Pre-configured OpenClaw workspace for agricultural intelligence and environmental monitoring.
 
 ## What This Skill Does

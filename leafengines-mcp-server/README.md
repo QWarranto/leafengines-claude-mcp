@@ -1,6 +1,8 @@
 # LeafEngines MCP Server — Agricultural Intelligence for AI Agents
 
-**Patent-protected soil analysis, crop recommendations, and environmental intelligence** via Model Context Protocol. 1,092+ downloads. Works with Claude Desktop, Cursor, OpenClaw, and any MCP-compatible client.
+> 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+
+**Patent-protected soil analysis, crop recommendations, and environmental intelligence** via Model Context Protocol. 1,300+ downloads. Published on the Official MCP Registry (v2.0.8). GitHub MCP Registry included (`io.github.QWarranto/leafengines`). **A-Excellent verified** on MCP World (June 2026) — QGIS approved (ID 4987) · SDK v3.0 hardware-ready · 750+ developers.
 
 ## ⚡ Get Started Now
 
@@ -65,7 +67,7 @@ Your AI agent will use LeafEngines tools automatically to analyze soil, recommen
 
 | Tool | What It Returns | Tier |
 |------|----------------|------|
-| `get_soil_analysis` | USDA SSURGO soil composition, pH, NPK, drainage, recommendations | Commoditized |
+| `get_soil_data` | USDA SSURGO soil composition, pH, NPK, drainage, recommendations | Commoditized |
 | `county_lookup` | Resolve location names to FIPS codes | Commoditized |
 | `territorial_water_quality` | EPA water quality and contamination risk scores | Commoditized |
 | `agricultural_intelligence` | AI-powered agricultural insights and recommendations | Enhanced |
@@ -73,8 +75,9 @@ Your AI agent will use LeafEngines tools automatically to analyze soil, recommen
 | `carbon_credit_calculator` | Carbon credit potential using proprietary models | Proprietary |
 | `generate_vrt_prescription` | Variable rate technology prescription maps | Proprietary |
 | `environmental_impact_analysis` | Patent-pending Environmental Compatibility Score with satellite data fusion | Exclusive |
-| `planting_optimization` | Multi-parameter phenology models for optimal planting windows | Exclusive |
 | `turbo_quant_capabilities` | Hardware optimization check — **always free, no auth required** | Free |
+
+> **9 active tools** across 4 pricing tiers (planting_optimization under maintenance — disabled upstream).
 
 ## 💰 Pricing
 
@@ -131,15 +134,16 @@ skills:
 Add to your Cursor MCP configuration with the same API key.
 
 ### MCP Registry
-- **Package:** `io.github.QWarranto/leafengines` version 1.1.5+
-- **Registry:** [https://registry.modelcontextprotocol.io](https://registry.modelcontextprotocol.io)
+- **Package:** `io.github.QWarranto/leafengines` v2.0.8 — latest
+- **Official Registry:** [registry.modelcontextprotocol.io](https://registry.modelcontextprotocol.io)
+- **GitHub Registry:** Inclusion requested — [github.com/mcp](https://github.com/mcp) (would be first AgTech server)
 
 ## 📖 Examples
 
 ### Soil Analysis
 ```
 User: "What's the soil like in Travis County, Texas?"
-AI: [Uses get_soil_analysis] "The soil in Travis County is primarily..."
+AI: [Uses get_soil_data] "The soil in Travis County is primarily..."
 ```
 
 ### Crop Planning
@@ -171,7 +175,7 @@ AI: [Uses environmental_impact_analysis + carbon_credit_calculator] "Environment
 ### For Developers & AI Engineers
 - **MCP integration** — Works with Claude, Cursor, OpenClaw, any MCP client
 - **TurboQuant optimization** — 6x memory compression for edge/offline deployment
-- **Multi-agent orchestration** — 10 tools across 4 pricing tiers
+- **Multi-agent orchestration** — 9 tools across 4 pricing tiers
 - **API access** — Direct HTTP calls to Supabase edge functions
 
 ## 🛡️ Enterprise-Grade Governance

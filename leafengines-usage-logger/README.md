@@ -1,5 +1,7 @@
 # LeafEngines Skill Usage Logger
 
+> 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+
 ## ⚡ Get Started Now
 
 **Free tier — no signup, no credit card:**

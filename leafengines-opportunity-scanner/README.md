@@ -1,5 +1,7 @@
 # 🌱 LeafEngines Opportunity Scanner
 
+> 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+
 **The First Environmental Arbitrage Primitive for OpenClaw Agents**
 
 *Inspired by the r/PlantIdentification community → Evolved from SoilSidekick Pro → Now empowering farmers, developers, and AI agents with environmental intelligence*

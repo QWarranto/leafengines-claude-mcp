@@ -1,5 +1,7 @@
 # LeafEngines — Agricultural Intelligence Platform
 
+> 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+
 **Patent-protected soil analysis, crop recommendations, and environmental intelligence** for AI agents, developers, and agricultural professionals worldwide. 1,092+ downloads. The only MCP server with patented algorithms in the ecosystem.
 
 ## ⚡ Get Started Now
