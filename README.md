@@ -2,6 +2,8 @@
 
 🌱 **TurboQuant-Powered Environmental Intelligence** - Soil analysis, crop recommendations, weather forecasts, and environmental impact assessment for sustainable agriculture. The only patent-protected agricultural intellgence platform in the MCP ecosystem.
 
+[![GitHub MCP Registry](https://img.shields.io/badge/GitHub%20MCP%20Registry-Approved-brightgreen?logo=github)](https://github.com/mcp) [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.QWarranto%2Fleafengines-blue)](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
+
 ##  Overview
 
 LeafEngines provides agricultural intelligence through multiple integration channels:
@@ -121,7 +123,8 @@ npm install -g @ancientwhispers54/leafengines-mcp-server
 leafengines-mcp-server
 ```
 
-**MCP Registry:** `io.github.QWarranto/leafengines` version 1.1.5
+**MCP Registry:** `io.github.QWarranto/leafengines` version 1.1.5  
+**GitHub MCP Registry:** ✅ Approved July 6, 2026 — listed at [github.com/mcp](https://github.com/mcp)
 
 ### **Option 2: OpenClaw Skill**
 ```bash
@@ -200,7 +203,8 @@ LeafEngines is available on Composio platform as custom tools for enterprise AI 
 
 ### **MCP Server**
 - **npm:** [@ancientwhispers54/leafengines-mcp-server](https://www.npmjs.com/package/@ancientwhispers54/leafengines-mcp-server)
-- **Registry:** [io.github.QWarranto/leafengines](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
+- **Official MCP Registry:** [io.github.QWarranto/leafengines](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
+- **GitHub MCP Registry:** ✅ Approved July 6, 2026 — [github.com/mcp](https://github.com/mcp)
 - **GitHub:** [leafengines-mcp-server](https://github.com/QWarranto/leafengines-claude-mcp/tree/main/leafengines-mcp-server)
 - **MCP Documentation:** [https://app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
 

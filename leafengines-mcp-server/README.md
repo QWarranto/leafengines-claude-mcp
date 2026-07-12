@@ -1,6 +1,8 @@
 # LeafEngines MCP Server — Agricultural Intelligence for AI Agents
 
 > 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+>
+> [![GitHub MCP Registry](https://img.shields.io/badge/GitHub%20MCP%20Registry-Approved-brightgreen?logo=github)](https://github.com/mcp) [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.QWarranto%2Fleafengines-blue)](https://registry.modelcontextprotocol.io/servers/io.github.QWarranto/leafengines)
 
 **Patent-protected soil analysis, crop recommendations, and environmental intelligence** via Model Context Protocol. 1,300+ downloads. Published on the Official MCP Registry (v2.0.8). GitHub MCP Registry included (`io.github.QWarranto/leafengines`). **A-Excellent verified** on MCP World (June 2026) — QGIS approved (ID 4987) · SDK v3.0 hardware-ready · 750+ developers.
 
@@ -136,7 +138,7 @@ Add to your Cursor MCP configuration with the same API key.
 ### MCP Registry
 - **Package:** `io.github.QWarranto/leafengines` v2.0.8 — latest
 - **Official Registry:** [registry.modelcontextprotocol.io](https://registry.modelcontextprotocol.io)
-- **GitHub Registry:** Inclusion requested — [github.com/mcp](https://github.com/mcp) (would be first AgTech server)
+- **GitHub MCP Registry:** ✅ Approved July 6, 2026 — [github.com/mcp](https://github.com/mcp) (first AgTech server)
 
 ## 📖 Examples
 
